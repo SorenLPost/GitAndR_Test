@@ -3,3 +3,7 @@
 #R_version: 4.1.0
 #Rstudio_version: X
 #############################################################################
+#library(usethis)
+?use_github
+
+#edit_r_environ()
